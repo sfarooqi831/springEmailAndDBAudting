@@ -22,6 +22,7 @@ public class SpringBootEmailAuditingSchedulingApplication {
 	  
 	
 	public static void main(String[] args) {
+		System.out.println("Welcome");
 		SpringApplication.run(SpringBootEmailAuditingSchedulingApplication.class, args);
 	}
 
